@@ -27,6 +27,7 @@ connect();
                     echo "<li><a href=\"#\">" . $title . "</a>";
                 }
                 ?>
+                <li><a href="admin">Admin</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
