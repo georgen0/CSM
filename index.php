@@ -178,7 +178,5 @@ include "includes/Navbar.php";
     ?>
     <!-- Footer -->
 
-
 </body>
-
 </html>
